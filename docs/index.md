@@ -1,69 +1,48 @@
----
-title: EMNLP 21 Tutorial on Robust NLP 
-layout: page
-permalink: /
----
+# Course Program
 
-## Ask/Vote on Questions
+## 12 03 2022 - week 8 advanced Graph Neural Networks
 
-Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/ucfbxrar).
+[video](https://youtu.be/mPE28AVYQBk)
 
-## Overview
+### Materials
 
-Recent studies show that many NLP systems are sensitive and vulnerable to a small perturbation of inputs and do not generalize well across different datasets. This lack of robustness derails the use of NLP systems in real-world applications.
-This tutorial aims at bringing awareness of practical concerns about NLP robustness. 
-It targets NLP researchers and practitioners who are interested in building reliable NLP systems. 
-In particular, we will review recent studies on analyzing the weakness of NLP systems when facing adversarial inputs 
-and data with a distribution shift. We will provide the audience with a holistic view of
-1. how to use adversarial examples to examine the weakness of NLP models and facilitate debugging; 
-1. how to enhance the robustness of existing NLP models and defense against adversarial inputs; 
-1. how the consideration of robustness affects the real-world NLP applications used in our daily lives. 
+* Видеогайд Understanding Graph Attention Networks[youtube](https://www.youtube.com/watch?v=A-yKQamf2Fc)
+* Лекция про Graph Node Embedding Algorithms от Лесковица[youtube 2019](https://www.youtube.com/watch?v=7JELX6DiUxQ),[youtube 2021](https://www.youtube.com/watch?v=xop5tC9T5xM&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=29)
+* The Annotated GAT (Cora)[colab](https://colab.research.google.com/drive/1RdYRbdvdZqkEL36UxkWXC1J_AmMLiBJb?usp=sharing),[github](https://github.com/gordicaleksa/pytorch-GAT/blob/main/The%20Annotated%20GAT%20(Cora).ipynb),[объяснение youtube](https://www.youtube.com/watch?v=uFLeKkXWq2c)
+* Еще один неплохой доклад от Michael Bronstein[youtube](https://www.youtube.com/watch?v=PLGcx65MhCc)
+* Intro to graph neural networks от Petar Veličković[youtube](https://www.youtube.com/watch?v=8owQBFAHw7E)
 
-We will conclude the tutorial by outlining future research directions in this area.
+## 26 02 2022 - week 7 Epidemics in Networks
 
-# Speakers
-<div class="col-md-3">
-    <div class="profile height150">
-        <div><a href="http://kwchang.net"><img class="avatar-img" width=150 src="https://avatars2.githubusercontent.com/kaiweichang?v=3&s=400"></a></div>
-        <div style="margin-bottom:40px"><center><b>Kai-Wei Chang</b><br> UCLA</center></div>
-    </div>
-</div>
+[video](https://youtu.be/1jwyBHUzSAU)
 
-<div class="col-md-3">
-    <div class="profile height150">
-        <div><a href="https://hhexiy.github.io/"><img class="avatar-img" width=150 src="images/he.png"> </a></div>
-        <div style="margin-bottom:40px"><center><b> He He</b> <br> NYU </center></div>
-    </div>
-</div>
-<div class="col-md-3">
-    <div class="profile height150">
-        <div><a href="https://robinjia.github.io/"><img class="avatar-img" width=150 src="https://avatars2.githubusercontent.com/robinjia?v=3&s=400"></a></div>
-        <div style="margin-bottom:40px"><center><b>Robin Jia</b><br> USC</center></div>
-    </div>
-</div>
+### Materials
 
-<div class="col-md-3">
-    <div class="profile height150">
-        <div><a href="https://sameersingh.org/"><img class="avatar-img" width=150 src="images/sameer.png"></a></div>
-        <div style="margin-bottom:40px"><center><b>Sameer Singh</b><br> UC Irvine</center></div>
-    </div>
-</div>
+* https://colab.research.google.com/drive/14tLuOa9qzitPuZQQwgVeQ-3JLwCNy1BN?usp=sharing
+* https://drive.google.com/file/d/13C_bgVQn6evzU5MF4YXoSugs-Dvtje1p/view?usp=sharing
+* https://drive.google.com/file/d/14tpnB250LLHNIWz7TEHyTKO2mZQKP6g-/view?usp=sharing
+* https://drive.google.com/file/d/1LWDJLj2Z3APsCNQlEe0hBBw6KmvVXYtx/view?usp=sharing
 
-## Outline
+  Zhukov, D., Khvatova, T., Lesko, S., Zaltsman, A. (2018). Managing social networks: applying Percolation theory methodology to understand individuals’ attitudes and moods. Technological Forecasting and Social Change, Volume 129, April 2018, pp. 297-307.
 
-- Motivation and Overview 
-- Finding Lack of Robustness (Attacks) 
-    1. Writing Challenging Examples
-    1. Generating Adversarial Examples
-    1. Adversarial Trigger and Text Generation 
-    1. Training Time Attack
-- Making Models Robust (Defenses)
-    1. Robustness to Spurious Correlations
-    1. Adversarial Training for Defense
-    1. Certified Robustness in NLP
-    1. Test time-defense: detecting adversarial examples
-- Conclusion, Future Directions, and Discussion 
+## 19 02 2022- week 6 Neural Network Models
 
+[video](https://youtu.be/_u2C3Vf80fI)
 
-## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQObhZjgRpHPVStVU2V87P-E4LgsD764B2bY4CUOhOEhORPMXQOnKpmxmtoePFvBW81NDrCn3VaOAT8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+## 12 02 2022 - week 5 Web Scraping
+
+[video](https://youtu.be/38LQ6W1ffr0)
+
+## 05 02 2022 - week 4 Clustering and Communtity Detection
+
+[video](https://youtu.be/d9UzCJ5iYmE)
+
+## 29 01 2022 - week 3 Network Centralities
+
+[video](https://youtu.be/9RZ4XBHP_ME)
+
+## 22 01 2022 - week 2 Network Properties
+
+[video](https://youtu.be/fHQ8-9QKhGk)
+
+## 15 01 2022 - week 1 Course Intro and Key Ideas of Network Science
